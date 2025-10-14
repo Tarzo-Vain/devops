@@ -3,3 +3,6 @@
 [![LICENSE](https://img.shields.io/github/license/Tarzo-Vain/devops.svg?style=flat-square)](https://github.com/Tarzo-Vain/devops/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/Tarzo-Vain/devops/all.svg?style=flat-square)](https://github.com/Tarzo-Vain/devops/releases)
+
+# DevOps
+Develop Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Tarzo-Vain/devops/main.yml)
